@@ -1,11 +1,11 @@
 
+function quersumme(zahl1) {
 
+  var result = 0;
 
-
-/* Nr 1
-function quersumme(zahl1){
-  var zahl1=document.getElementById("zahl-1").value
-  var zahlen = zahl1.split("");
-  document.write(zahlen);
+  for (var i = 0; i < zahl1.length; i++) {
+    zahl1.substring()
+  }
+  
+    alert (result);
 }
-*/
